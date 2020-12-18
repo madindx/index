@@ -8,7 +8,7 @@ const end = section.querySelector('h1');
 const controller = new ScrollMagic.Controller();
 
 const scene = new ScrollMagic.Scene({
-    duration: 5000,
+    duration: 1000,
     triggerElement: intro,
     triggerHook: 0
 })
@@ -28,4 +28,4 @@ setInterval(() => {
     console.log(scrollpos, delay);
     
     video.currentTime = scrollpos;
-}, 10);
+}, 33.3);
