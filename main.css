@@ -28,8 +28,35 @@ color: white;}
 .center {
     text-align: center;
     color: white;
-    font-size: 1.5vh;
+    font-size: 1.7vh;
     font-family: sans-serif;
+}
+
+.tl {
+    position: absolute;
+    text-align: left;
+    color: white;
+    font size: 1.7vh;
+    font-family: sans-serif;
+    padding-left: 35vh;
+}
+
+.tr {
+    position: absolute;
+    text-align: right;
+    color: white;
+    font size: 1.7vh;
+    font-family: sans-serif;
+    padding-left: 20vh;
+}
+
+.tc {
+    position: absolute;
+    text-align: left;
+    color: white;
+    font size: 1.7vh;
+    font-family: sans-serif;
+    padding-left: 5vh;
 }
 
 .container {
