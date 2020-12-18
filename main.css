@@ -34,29 +34,30 @@ color: white;}
 
 .tl {
     position: absolute;
-    text-align: left;
+    text-align: center;
     color: white;
     font size: 1.7vh;
     font-family: sans-serif;
-    padding-left: 45vh;
+    padding-left: 50%;
 }
 
 .tr {
     position: absolute;
-    text-align: right;
+    text-align: center;
     color: white;
     font size: 1.7vh;
     font-family: sans-serif;
-    padding-left: 25vh;
+    margin-left: 90%;
+    margin-right: auto;
 }
 
 .tc {
     position: absolute;
-    text-align: left;
+    text-align: center;
     color: white;
     font size: 1.7vh;
     font-family: sans-serif;
-    padding-left: 5vh;
+    margin-left: 5%;
 }
 
 .container {
