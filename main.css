@@ -28,7 +28,7 @@ color: white;}
 .center {
     text-align: center;
     color: white;
-    font-size: 1.7vh;
+    font-size: 2vh;
     font-family: sans-serif;
 }
 
@@ -38,7 +38,7 @@ color: white;}
     color: white;
     font size: 1.7vh;
     font-family: sans-serif;
-    padding-left: 50%;
+    padding-left: 49%;
 }
 
 .tr {
@@ -47,7 +47,7 @@ color: white;}
     color: white;
     font size: 1.7vh;
     font-family: sans-serif;
-    margin-left: 90%;
+    margin-left: 70%;
     margin-right: auto;
 }
 
@@ -57,14 +57,13 @@ color: white;}
     color: white;
     font size: 1.7vh;
     font-family: sans-serif;
-    margin-left: 5%;
+    margin-left: 25%;
 }
 
 .container {
     text-align: center;
     color: white;
     z-index: 99;
-    font size: 1.7vh;
     padding-top: 130vh;
     padding-bottom: 10vh;
 }
