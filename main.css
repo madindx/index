@@ -39,7 +39,7 @@ color: white;}
     color: white;
     font size: 1.7vh;
     font-family: sans-serif;
-    margin-left: 20%;
+    margin-left: 25%;
 }
 
 .tr {
@@ -58,12 +58,12 @@ color: white;}
     color: white;
     font size: 1.7vh;
     font-family: sans-serif;
-    margin-left: -20%;
+    margin-left: -25%;
 }
 
 .container {
     text-align: center;
     color: white;
     z-index: 99;
-    padding-top: 145vh;
+    padding-top: 140vh;
 }
