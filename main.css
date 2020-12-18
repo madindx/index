@@ -9,7 +9,13 @@ body {
     background: #000;
 }
 
-.center{ margin: 0 auto; width: 400px; }
+a:hover, a:visited, a:link, a:active
+{text-decoration: none; color: white}
+
+.special{
+    text-align: center;
+    color: white;
+}
 
 .intro{
   display: flex;
